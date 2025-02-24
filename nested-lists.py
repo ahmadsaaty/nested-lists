@@ -1,6 +1,6 @@
 lists= []
 listn= []
-for _ in range(3):
+for _ in range(int(input("enter number of students: "))):
     name = input("enter name: ")
     score = float(input("enter grade: "))
     listn = [name, score]
