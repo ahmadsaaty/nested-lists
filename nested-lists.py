@@ -6,5 +6,5 @@ for _ in range(3):
     listn = [name, score]
     
     print(listn)
-lists.append(listn)
+    lists.append(listn)
 print(lists)
